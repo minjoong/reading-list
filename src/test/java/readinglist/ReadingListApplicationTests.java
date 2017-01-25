@@ -1,4 +1,4 @@
-package com.slowmj;
+package readinglist;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
